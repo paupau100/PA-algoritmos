@@ -16,7 +16,11 @@ INTEGRANTES DE LA SCUDERIA:
 
 Laura realizo los puntos del txt:
 Diccionarios
+
+
 Listas
+
+
 Funcionalidades del sistema
 
 Del código:
@@ -37,6 +41,8 @@ Creo el repositorio
 
 
 Realizó Estructura del Programa, Menús y Control de Errores
+
+
 
 
 
