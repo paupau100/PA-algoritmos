@@ -28,7 +28,7 @@ Realizó el código de la pasarela de pagos
 
 
 
-
+--------------
 
 
 Paula realizó 
@@ -43,10 +43,7 @@ Creo el repositorio
 Realizó Estructura del Programa, Menús y Control de Errores
 
 
-
-
-
-
+--------------------
 
 
 Danna realizó los puntos del txt
