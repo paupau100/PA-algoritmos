@@ -16,7 +16,11 @@ INTEGRANTES DE LA SCUDERIA:
 
 Laura realizo los puntos del txt:
 Diccionarios
+
+
 Listas
+
+
 Funcionalidades del sistema
 
 Del código:
@@ -31,7 +35,11 @@ Paula realizó
 La descripción general del txt
 Del código:
 Código Base 
+
+
 Creo el repositorio
+
+
 Realizó Estructura del Programa, Menús y Control de Errores
 
 
@@ -43,8 +51,12 @@ Realizó Estructura del Programa, Menús y Control de Errores
 
 Danna realizó los puntos del txt
 Manejos de errores
+
+
 Talleres de accesorios
 Reporte facturación
+
+
 Del código:
 Montó el código para sacar precios y total de la compra
 
